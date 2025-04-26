@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "812417077912",
+    "project_id": "lguride-bbddd",
+    "storage_bucket": "lguride-bbddd.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:812417077912:android:f125ddc62f4b847c96b6ed",
+        "android_client_info": {
+          "package_name": "com.samifarhan.lgu_ride"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAzbx5bIQ_zi-j0u17v9yRrE-ysHoHeM18"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
